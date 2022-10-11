@@ -23,7 +23,7 @@ void GetNum (int number)
     }
 }
 
-GetNum (-3);
+GetNum (7);
 
 
 
