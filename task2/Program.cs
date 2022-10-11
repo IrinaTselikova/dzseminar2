@@ -3,9 +3,6 @@
 78 -> третьей цифры нет
 32679 -> 6 */
 
-
-
-
 void GetNumber (int number)
 {
     if (number>100)
@@ -18,5 +15,4 @@ void GetNumber (int number)
     Console.WriteLine("Третьей цифры нет");
 }
 
-
-GetNumber(35);
+GetNumber(351123);
